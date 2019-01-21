@@ -1,4 +1,4 @@
 # TotalCommander
-- Design Graphic Elements for Tools Panels - 9pcs
+- Design Buttons and Icons for Tools Panels - 9pcs
 - Developed Command Menu 
-- Portable Software - 49 categories
+- Developed Portable Software - 49 categories
